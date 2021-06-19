@@ -20,7 +20,7 @@ The project is documented by the following publications.
     *In IEEE International Conference on Computational Intelligence in Bioinformatics and Computational
     Biology (CIBCB 2016)*, Chiang Mai, Thailand, October, 5-7, 2016.
 
-- Manuel Belmadani. [MotifGP: DNA motif discovery using multiobjectivee evolution. (http://www.ruor.uottawa.ca/handle/10393/34213)
+- Manuel Belmadani. [MotifGP: DNA motif discovery using multi-objective evolution.](http://www.ruor.uottawa.ca/handle/10393/34213)
     Master of computer science, University of Ottawa, School
     of Electrical Engineering and Computer Science, 2016.
 
